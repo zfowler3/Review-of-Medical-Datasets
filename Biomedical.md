@@ -1,4 +1,4 @@
-# Review of Medical Datasets
+# Review of Medical Datasets for Machine Learning
 
 ## [CheXpert](https://arxiv.org/abs/1901.07031)
 + Type: image dataset; data collected from in-patient and out-patient centers of a hospital (USA)
@@ -8,3 +8,5 @@
 + [Additional info](https://arxiv.org/pdf/2105.03020.pdf)
 
 ## [NIH Chest X-ray 14]()
++ Type: image dataset; data collected from in-patient visits
++ EMR data provides patient visit number, which is not commonly present in most medical datasets
