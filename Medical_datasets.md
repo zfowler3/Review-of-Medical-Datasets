@@ -15,6 +15,7 @@ Brief overview of medical image datasets for machine learning, divided based off
 + Each image can have multi-labels; uses text mining similar to CheXpert to label images
 + Eliminates uncertain labels, unlike CheXpert
 + EMR data provides patient visit number, which is not commonly present in most medical datasets
++ Extremely easy to access
 + [Additional info](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
 
 ## [PadCHEST](https://arxiv.org/abs/1901.07441)
@@ -24,6 +25,14 @@ Brief overview of medical image datasets for machine learning, divided based off
 + Image data can have multi-labels
 + Other provided data: StudyDate, PatientSex, ViewPosition, Modality, Manufacturer, PhotometricInterpretation, PixelRepresentation, Data representation of the pixel samples, PixelAspectRatio, SpatialResolution, BitsStored, WindowCenter, WindowWidth, Rows, Columns, XRayTubeCurrent, X-ray Tube Current, ExposureTime, Duration of x-ray exposure, Exposure, ExposureInuAs, RelativeXRayExposure
 + Provides localization information
+
+## [JSRT Database](http://db.jsrt.or.jp/eng.php)
++ Type: chest x-ray image dataset from Japan
++ Provided data includes: patient age, gender, diagnosis (malignant or benign), X and Y coordinates of nodule, simple diagram of nodule location.
++ Lung nodule images were classified into _five groups_.
++ Need username and password to download the dataset.
+
+## [MIMIC-CXR Database](https://physionet.org/content/mimic-cxr/2.0.0/)
 
 # _OCT and Fundus Datasets_
 
