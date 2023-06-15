@@ -18,4 +18,13 @@ Brief overview of medical image datasets for machine learning, divided based off
 + [Additional info](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
 
 ## [PadCHEST](https://arxiv.org/abs/1901.07441)
-+ Type: chest x-ray image dataset
++ Type: chest x-ray image dataset with 19 differential diagnoses
++ Contains radiographic reports in Spanish
++ Contains images that have been manually labeled by experts, as well as images that were labeled in a supervised learning fashion
++ Image data can have multi-labels
++ Other provided data: StudyDate, PatientSex, ViewPosition, Modality, Manufacturer, PhotometricInterpretation, PixelRepresentation, Data representation of the pixel samples, PixelAspectRatio, SpatialResolution, BitsStored, WindowCenter, WindowWidth, Rows, Columns, XRayTubeCurrent, X-ray Tube Current, ExposureTime, Duration of x-ray exposure, Exposure, ExposureInuAs, RelativeXRayExposure
++ Provides localization information
+
+# _OCT and Fundus Datasets_
+
+# _MRI Datasets_
