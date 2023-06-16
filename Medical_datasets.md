@@ -48,6 +48,19 @@ Brief overview of medical image datasets for machine learning, divided based off
 
 # _MRI Datasets_
 
+## [ABIDE I & II](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
++ ABIDE I can be downloaded in a pre-processed version
++ Register online to view dataset (username+password); easy to access
+
+## [ADHD-200](http://fcon_1000.projects.nitrc.org/indi/adhd200/)
++ Register online to view dataset
+
+## [COBRE]
+
+## [ADNI]
+
+## [OASIS]
+
 # _Other Large Datasets_
 
 ## [UK Biobank](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data)
