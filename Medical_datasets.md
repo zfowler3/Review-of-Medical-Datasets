@@ -33,7 +33,24 @@ Brief overview of medical image datasets for machine learning, divided based off
 + Need username and password to download the dataset.
 
 ## [MIMIC-CXR Database](https://physionet.org/content/mimic-cxr/2.0.0/)
++ Type: chest radiograph images
++ Contains structured labels obtained from radiology reports
++ Uses strategy from CheXpert to obtain these labels
++ Has [github repository](https://github.com/MIT-LCP/mimic-cxr) for collaborative code development
 
 # _OCT and Fundus Datasets_
 
+## [OLIVES Dataset](https://arxiv.org/abs/2209.11195)
++ Type: OCT and fundus image dataset (USA)
++ Dataset comprised of two clinical trials
++ Contains biomarkers, clinical labels (BCVA, CST), patient visit number, patient ID, and more
++ Has [github repository](https://github.com/olivesgatech/OLIVES_Dataset) for all results demonstrated in paper
+
 # _MRI Datasets_
+
+# _Other Large Datasets_
+
+## [UK Biobank](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data)
++ Contains brain, heart, MRI imaging, OCT imaging, and more
++ Has repeat scanning for some patients years later (usually every 2-3 years)
++ *Pay to access the data*
