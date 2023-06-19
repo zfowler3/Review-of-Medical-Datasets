@@ -1,3 +1,3 @@
-# Review of Medical Datasets
+# Review of Medical Image Datasets
 
-An overview of different types of medical & clinical trial datasets for machine learning / deep learning.
+An overview of different types of medical & clinical trial image datasets for machine learning / deep learning.
