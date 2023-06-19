@@ -53,6 +53,7 @@ Brief overview of medical image datasets for machine learning, divided based off
 + Type: fundus image dataset collected from 3 different locations
 + Contains eyes that have Diabetic Macular Edema
 + Provides severity score
++ Have to request access to dataset
 
 # _MRI Datasets_
 
