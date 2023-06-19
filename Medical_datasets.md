@@ -43,8 +43,16 @@ Brief overview of medical image datasets for machine learning, divided based off
 ## [OLIVES Dataset](https://arxiv.org/abs/2209.11195)
 + Type: OCT and fundus image dataset (USA)
 + Dataset comprised of two clinical trials
++ Contains eyes that have Diabetic Macular Edema (DME) and Diabetic Retinopathy (DR)
 + Contains biomarkers, clinical labels (BCVA, CST), patient visit number, patient ID, and more
 + Has [github repository](https://github.com/olivesgatech/OLIVES_Dataset) for all results demonstrated in paper
+
+## [IDRID]
+
+## [MESSIDOR]
++ Type: fundus image dataset collected from 3 different locations
++ Contains eyes that have Diabetic Macular Edema
++ Provides severity score
 
 # _MRI Datasets_
 
