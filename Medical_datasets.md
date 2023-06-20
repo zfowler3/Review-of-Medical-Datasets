@@ -59,7 +59,9 @@ Brief overview of medical image datasets for machine learning, divided based off
 
 ## [ABIDE I & II](http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
 + ABIDE I can be downloaded in a pre-processed version
-+ Register online to view dataset (username+password); easy to access
++ Register online to view dataset (username+password); easy to access from the ABIDE page
++ Can download data separated based off of which site it was collected at
++ Glancing through the dataset: ABIDE II NYU has mostly data from one session; same for Caltech ABIDE I
 
 ## [ADHD-200](http://fcon_1000.projects.nitrc.org/indi/adhd200/)
 + Register online to view dataset
