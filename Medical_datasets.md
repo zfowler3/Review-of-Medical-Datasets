@@ -47,13 +47,23 @@ Brief overview of medical image datasets for machine learning, divided based off
 + Contains biomarkers, clinical labels (BCVA, CST), patient visit number, patient ID, and more
 + Has [github repository](https://github.com/olivesgatech/OLIVES_Dataset) for all results demonstrated in paper
 
-## [IDRID]
+## [IDRID](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
++ Type: fundus dataset (India)
++ Provides information on the disease severity of DR and DME for each image
++ Website claims it is "the only dataset constituting typical diabetic retinopathy lesions and also normal retinal structures annotated at a pixel level"
 
-## [MESSIDOR]
-+ Type: fundus image dataset collected from 3 different locations
-+ Contains eyes that have Diabetic Macular Edema
+## [MESSIDOR](https://www.adcis.net/en/third-party/messidor/)
++ Type: fundus image dataset collected from 3 different geographical locations
++ Contains eyes that have Diabetic Retinopathy / Diabetic Macular Edema
 + Provides severity score
 + Have to request access to dataset
++ Messidor-2 fundus images available [here](https://www.kaggle.com/datasets/mariaherrerot/messidor2preprocess); free to download and preprocessed
+
+## [Kermany](https://data.mendeley.com/datasets/rscbjbr9sj/3)
++ Type: OCT image dataset
++ OCT images are classified as having: CNV, DME, DRUSEN, and NORMAL
++ Pre-defined train/test split
++ Also contains chest xray images
 
 # _MRI Datasets_
 
