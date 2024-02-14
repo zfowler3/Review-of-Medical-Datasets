@@ -76,9 +76,17 @@ Brief overview of medical image datasets for machine learning, divided based off
 ## [ADHD-200](http://fcon_1000.projects.nitrc.org/indi/adhd200/)
 + Register online to view dataset
 
+## [BraTS2020](https://www.med.upenn.edu/cbica/brats2020/data.html)
++ Need to request data
++ Data is accompanied with tumor annotations
++ Multi-institutional; NIfTI format
+
 ## [COBRE]
 
-## [ADNI]
+## [ADNI](https://adni.loni.usc.edu/)
++ Need to request data
++ Access to lots of other clinical information besides MRI data
++ Access to participant's data across multiple visits
 
 ## [OASIS]
 
@@ -88,3 +96,6 @@ Brief overview of medical image datasets for machine learning, divided based off
 + Contains brain, heart, MRI imaging, OCT imaging, and more
 + Has repeat scanning for some patients years later (usually every 2-3 years)
 + *Pay to access the data*
+
+## [MedMNIST](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data](https://zenodo.org/records/10519652))
++ Contains 2D and 3D data from various biomedical settings, including chest x-ray, fundus, OCT, blood cells, etc.
